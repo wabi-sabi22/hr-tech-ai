@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# AI Models & Data
+models/*.pt
+models/*.onnx
+data/*
+.env
+
+# Notebooks
+.ipynb_checkpoints/
